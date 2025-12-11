@@ -132,3 +132,5 @@ Traditional password generators rely on pseudo-randomness.
 QuantaLock uses **quantum entropy**, **cryptographic reinforcement**, and **hardware binding** to produce passwords far beyond typical systems.
 
 Offline. Zero-tracking. Industrial-grade security with simplicity.
+
+<!-- keywords: quantum security, entropy engine, quantum randomness, password generator, zero trust vault -->
